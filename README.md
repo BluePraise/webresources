@@ -71,4 +71,6 @@ Searchable Photo Databases
 * Stack Overflow [git flow release no tag issue](http://stackoverflow.com/questions/6500965/git-flow-fails-with-fatal-no-tag-message-tagging-failed-please-run-finish)
 * [SSH and Synology](http://techanic.net/2014/04/12/configuring_ssh_and_scp_sftp_on_dsm_5.0_for_synology_diskstations.html)
 * [Adding SSH Keys - nitrous.io] (http://help.nitrous.io/ssh-add/)
+* [Git on a Synology](http://blog.osdev.org/git/2014/02/13/using-git-on-a-synology-nas.html)
+* [Macbook Cool Features](http://www.buzzfeed.com/danieldalton/macbook-pro#2ls0d3d)
 
