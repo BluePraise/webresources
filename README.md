@@ -26,12 +26,12 @@ Features for Drupal, WordPress and any other webresource:
   * [Getting started with Gulp - Github Readme](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 
 
-### Video's
+# Video's
   * [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
   * [My Brain is Full: Keeping Pace with Front-End & UX Innovations](https://www.youtube.com/watch?v=A8fHYwAeNpA)
   * [Sass Bites Podcasts](https://www.youtube.com/channel/UCOFsG9Tbs7Aga9n7Smify0A)
 
-### Docs
+# Docs
   * [Drupal.org](http://drupal.org)
   * [WordPress.org](http://WordPress.org)
   * [Susy Docs](http://susy.readthedocs.org/en/latest/)
