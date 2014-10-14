@@ -40,7 +40,7 @@ Features for Drupal, WordPress and any other webresource:
   * [Markdown](http://daringfireball.net/projects/markdown/basics)
 
 # Free Image Sources
-  ### Searchable Photo Databases
+Searchable Photo Databases
   1. [Dreamstime](http://www.dreamstime.com/free-images_pg1)
   2. [Free Digital Photos](http://www.freedigitalphotos.net/)
   3. [Free Images](http://www.freeimages.com/)
