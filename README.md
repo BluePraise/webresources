@@ -4,6 +4,8 @@ Features for Drupal, WordPress and any other webresource:
   * Video's
   * Links to Libraries, Docs or API's
 
+  [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
+
 #Articles
 ### All-web related
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -51,7 +53,7 @@ Features for Drupal, WordPress and any other webresource:
   10. [Stockvault](http://www.stockvault.net/) No registration.
   11. [RGBstock](http://www.rgbstock.com/about) Yes registration.
   12. [Publick Domain Pictures](http://www.publicdomainpictures.net/) Yes Registration.
-
+  13. [Death To the Stock Photo](http://join.deathtothestockphoto.com/) Sends it monthly
 #Personal
 (Because I keep googling them and now I don't have to anymore)
   * Stack Overflow [git flow release no tag issue](http://stackoverflow.com/questions/6500965/git-flow-fails-with-fatal-no-tag-message-tagging-failed-please-run-finish)
