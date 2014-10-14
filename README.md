@@ -4,7 +4,7 @@ Features for Drupal, WordPress and any other webresource:
 * Video's
 * Links to Libraries, Docs or API's
 
-  [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
+[![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
 
 #Articles
 ### All-web related
@@ -47,19 +47,20 @@ Plugins
 
 # Free Image Sources
 Searchable Photo Databases
-1. [Dreamstime](http://www.dreamstime.com/free-images_pg1)
-2. [Free Digital Photos](http://www.freedigitalphotos.net/)
-3. [Free Images](http://www.freeimages.com/)
-4. [Image Free](http://www.imagefree.com/) Yes I know.
-5. [Free Range](http://freerangestock.com/)
-6. [Free Photos Bank](http://freephotosbank.com/)
-7. [IM Free](http://www.imcreator.com/free)
-8. [MorgueFile](http://morguefile.com/) Yes registration.
-9. [Pixabay](http://pixabay.com/) No Registration
-10. [Stockvault](http://www.stockvault.net/) No registration.
-11. [RGBstock](http://www.rgbstock.com/about) Yes registration.
-12. [Publick Domain Pictures](http://www.publicdomainpictures.net/) Yes Registration.
-13. [Death To the Stock Photo](http://join.deathtothestockphoto.com/) Sends it monthly
+
+  1. [Dreamstime](http://www.dreamstime.com/free-images_pg1)
+  2. [Free Digital Photos](http://www.freedigitalphotos.net/)
+  3. [Free Images](http://www.freeimages.com/)
+  4. [Image Free](http://www.imagefree.com/) Yes I know.
+  5. [Free Range](http://freerangestock.com/)
+  6. [Free Photos Bank](http://freephotosbank.com/)
+  7. [IM Free](http://www.imcreator.com/free)
+  8. [MorgueFile](http://morguefile.com/) Yes registration.
+  9. [Pixabay](http://pixabay.com/) No Registration
+  10. [Stockvault](http://www.stockvault.net/) No registration.
+  11. [RGBstock](http://www.rgbstock.com/about) Yes registration.
+  12. [Publick Domain Pictures](http://www.publicdomainpictures.net/) Yes Registration.
+  13. [Death To the Stock Photo](http://join.deathtothestockphoto.com/) Sends it monthly
 
 # Personal
 (Because I keep googling them and now I don't have to anymore)
