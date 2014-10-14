@@ -10,6 +10,7 @@ Features for Drupal, WordPress and any other webresource:
 ### All-web related
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   * [Google Chrome Dev Tools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
+  * [Brad Frost Web Patterns](http://patternlab.io/)
 
 ### CSS
   * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
