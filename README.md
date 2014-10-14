@@ -22,10 +22,13 @@ Features for Drupal, WordPress and any other webresource:
 * [How to speed up your wordpress website](http://www.smashingmagazine.com/2014/06/25/how-to-speed-up-your-wordpress-website/)
 * [Optimizing your Wordpress site for mobile devices](http://premium.wpmudev.org/blog/6-steps-to-optimizing-your-wordpress-site-for-mobile-devices/)
 * [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
+* [WordPress Site Migration](http://wpshout.com/commonsense-wordpress-site-migration/)
 
 Plugins
 * All-In-One Migration: [Link](https://wordpress.org/plugins/all-in-one-wp-migration/)
 * [Time.ly](http://time.ly/)
+* [iThemes Security](https://wordpress.org/plugins/better-wp-security/)
+* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 
 ### Drupal
 * [Webwash: Articles and Videos for Drupal](http://webwash.net/articles)
