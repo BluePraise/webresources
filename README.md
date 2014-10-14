@@ -11,6 +11,7 @@ Features for Drupal, WordPress and any other webresource:
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   * [Google Chrome Dev Tools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
   * [Brad Frost Web Patterns](http://patternlab.io/)
+  * [Meteor for building WebApps](https://www.meteor.com/)
 
 ### CSS
   * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
@@ -58,4 +59,5 @@ Searchable Photo Databases
 #Personal
 (Because I keep googling them and now I don't have to anymore)
   * Stack Overflow [git flow release no tag issue](http://stackoverflow.com/questions/6500965/git-flow-fails-with-fatal-no-tag-message-tagging-failed-please-run-finish)
+  * [SSH and Synology](http://techanic.net/2014/04/12/configuring_ssh_and_scp_sftp_on_dsm_5.0_for_synology_diskstations.html)
 
