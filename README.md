@@ -13,6 +13,7 @@ Features for Drupal, WordPress and any other webresource:
 * [Brad Frost Web Patterns](http://patternlab.io/)
 * [Meteor for building WebApps](https://www.meteor.com/)
 * [Awesome Github tricks](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
+* [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
 
 ### CSS
 * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
@@ -36,6 +37,7 @@ Plugins
 ### Gulp
 * [Gulp Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
 * [Getting started with Gulp - Github Readme](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+* [Gulp on Smashing Web](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 
 # Video's
 * [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
@@ -73,4 +75,5 @@ Searchable Photo Databases
 * [Adding SSH Keys - nitrous.io] (http://help.nitrous.io/ssh-add/)
 * [Git on a Synology](http://blog.osdev.org/git/2014/02/13/using-git-on-a-synology-nas.html)
 * [Macbook Cool Features](http://www.buzzfeed.com/danieldalton/macbook-pro#2ls0d3d)
+* [Git Aliasses - A list apart](http://alistapart.com/blog/post/personalizing-git-with-aliases/)
 
