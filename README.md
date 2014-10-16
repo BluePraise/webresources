@@ -14,22 +14,27 @@ Features for Drupal, WordPress and any other webresource:
 * [Meteor for building WebApps](https://www.meteor.com/)
 * [Awesome Github tricks](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
 * [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
+* [Photoshop Image Optimizing](http://designinstruct.com/tools-basics/5-easy-steps-optimize-your-images-photoshop/)
 
 ### CSS
 * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
 * [Attribute Modules for CSS](http://amcss.github.io/)
 
 ### WordPress
-* [How to speed up your wordpress website](http://www.smashingmagazine.com/2014/06/25/how-to-speed-up-your-wordpress-website/)
-* [Optimizing your Wordpress site for mobile devices](http://premium.wpmudev.org/blog/6-steps-to-optimizing-your-wordpress-site-for-mobile-devices/)
 * [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
 * [WordPress Site Migration](http://wpshout.com/commonsense-wordpress-site-migration/)
+
+Optimizing
+* [Wordpress Optimizing that goes wrong](http://www.smashingmagazine.com/2014/03/21/wordpress-performance-improvements-that-can-go-wrong/)
+* [How to speed up your wordpress website](http://www.smashingmagazine.com/2014/06/25/how-to-speed-up-your-wordpress-website/)
+* [Optimizing your Wordpress site for mobile devices](http://premium.wpmudev.org/blog/6-steps-to-optimizing-your-wordpress-site-for-mobile-devices/)
 
 Plugins
 * All-In-One Migration: [Link](https://wordpress.org/plugins/all-in-one-wp-migration/)
 * [Time.ly](http://time.ly/)
 * [iThemes Security](https://wordpress.org/plugins/better-wp-security/)
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+* [Pagenavi](http://www.wpbeginner.com/wp-themes/how-to-add-numeric-pagination-in-your-wordpress-theme/)
 
 ### Drupal
 * [Webwash: Articles and Videos for Drupal](http://webwash.net/articles)
@@ -38,6 +43,7 @@ Plugins
 * [Gulp Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
 * [Getting started with Gulp - Github Readme](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 * [Gulp on Smashing Web](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
+* [Basic Task in Gulp](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
 
 # Video's
 * [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)

@@ -18,6 +18,7 @@ Als je een link wil toevoegen zet er kort bij (of kopieer een klein beetje van d
 * [Officiele Gulp Github Link](https://github.com/gulpjs/gulp/blob/master/docs/README.md)
 * [GulpJS](http://gulpjs.com/)
 * [Gulp on Smashing Web](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
+* [Gulpify your Drupal Environment](http://www.axelerant.com/blog/gulpify-your-drupal-development)
 
 ### Drupal Theming Gerelateerd
 
