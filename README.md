@@ -45,6 +45,12 @@ Plugins
 * [Gulp on Smashing Web](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 * [Basic Task in Gulp](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
 
+### Angular
+* [Step by Step guide to your first Angular JS app](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
+
+###Styleguides
+* [Stylguides in Hologram](http://trulia.github.io/hologram/)
+
 # Video's
 * [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
 * [My Brain is Full: Keeping Pace with Front-End & UX Innovations](https://www.youtube.com/watch?v=A8fHYwAeNpA)
