@@ -15,14 +15,20 @@ Features for Drupal, WordPress and any other webresource:
 * [Awesome Github tricks](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
 * [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
 * [Photoshop Image Optimizing](http://designinstruct.com/tools-basics/5-easy-steps-optimize-your-images-photoshop/)
+* [DevTools Cheat Sheat](http://anti-code.com/devtools-cheatsheet/)
 
 ### CSS
 * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
 * [Attribute Modules for CSS](http://amcss.github.io/)
+* [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
+* [Dutch Guide to Flexbox](http://nl.learnlayout.com/flexbox.html)
+* [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
 ### WordPress
 * [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
 * [WordPress Site Migration](http://wpshout.com/commonsense-wordpress-site-migration/)
+* [Wordpress Security Measures](http://premium.wpmudev.org/blog/keeping-wordpress-secure-the-ultimate-guide/)
+* [How to fix error 406 in wordpress](https://www.tipsandtricks-hq.com/apache-mod-security-update-how-to-fix-error-406-or-not-acceptable-issue-259)
 
 Optimizing
 * [Wordpress Optimizing that goes wrong](http://www.smashingmagazine.com/2014/03/21/wordpress-performance-improvements-that-can-go-wrong/)
