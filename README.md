@@ -57,10 +57,16 @@ Plugins
 ###Styleguides
 * [Stylguides in Hologram](http://trulia.github.io/hologram/)
 
+### interesting jQuery Libraries
+* [Javascript browser detection](https://github.com/ded/bowser)
+
 # Video's
 * [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
 * [My Brain is Full: Keeping Pace with Front-End & UX Innovations](https://www.youtube.com/watch?v=A8fHYwAeNpA)
 * [Sass Bites Podcasts](https://www.youtube.com/channel/UCOFsG9Tbs7Aga9n7Smify0A)
+
+### Slides and such
+* [Addy Osmani Front end tooling workflows](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 
 # Docs
 * [Drupal.org](http://drupal.org)
