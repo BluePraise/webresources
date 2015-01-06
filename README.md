@@ -23,6 +23,7 @@ Features for Drupal, WordPress and any other webresource:
 * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 * [Dutch Guide to Flexbox](http://nl.learnlayout.com/flexbox.html)
 * [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
+* [Flexbox bugs](ttps://github.com/philipwalton/flexbugs)
 
 ### WordPress
 * [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
