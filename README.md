@@ -16,14 +16,32 @@ Features for Drupal, WordPress and any other webresource:
 * [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
 * [Photoshop Image Optimizing](http://designinstruct.com/tools-basics/5-easy-steps-optimize-your-images-photoshop/)
 * [DevTools Cheat Sheat](http://anti-code.com/devtools-cheatsheet/)
+* [A year designing at facebook](https://medium.com/@gem_ray/a-year-of-designing-at-facebook-74ba9c292888)
+* [5 months of development internship at the guarian ](http://www.theguardian.com/info/developer-blog/2015/jan/27/five-months-in-software-development-at-the-guardian-what-weve-learned)
+* [The God Login: a study of login usability](http://blog.codinghorror.com/the-god-login/)
+* [Redesign of CNN Breaking News](https://medium.com/@sarahdoody/the-cnn-re-design-the-user-experience-of-breaking-news-5362f671e6ac)
+* [Working smarter](https://boagworld.com/working-in-web/work-smarter/)
+* [Working at Netflix](http://www.brendangregg.com/blog/2015-01-20/working-at-netflix.html)
+* [9 gifs that explain responsive design briliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly)
 
 ### CSS
 * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
 * [Attribute Modules for CSS](http://amcss.github.io/)
+* [John Albin's Normalize](https://github.com/JohnAlbin/normalize-scss)
+* [Ironically, don't use normalize](http://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation)
 * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
-* [Dutch Guide to Flexbox](http://nl.learnlayout.com/flexbox.html)
-* [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
-* [Flexbox bugs](https://github.com/philipwalton/flexbugs)
+* [Responsive Images by David Walsh](http://davidwalsh.name/responsive-images)
+  #### Flexbox
+  * [Dutch Guide to Flexbox](http://nl.learnlayout.com/flexbox.html)
+  * [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
+  * [Flexbox bugs](https://github.com/philipwalton/flexbugs)
+  #### Box-Sizing doc.
+  * [Paul Irish - where it all started](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+  * [CSSTricks - taking it further](http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+
+### SASS
+* [Andy is collection of cool mixins](http://gillesbertaux.com/andy/)
+* [Source Maps for better debugging](http://webdesign.tutsplus.com/tutorials/how-to-use-source-maps-for-better-preprocessor-debugging--cms-22735)
 
 ### WordPress
 * [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
@@ -45,6 +63,7 @@ Plugins
 
 ### Drupal
 * [Webwash: Articles and Videos for Drupal](http://webwash.net/articles)
+* [Drupal 8 in 2 steps](http://capgemini.github.io/drupal/drupal-8-in-2-steps/)
 
 ### Gulp
 * [Gulp Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
@@ -52,11 +71,18 @@ Plugins
 * [Gulp on Smashing Web](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 * [Basic Task in Gulp](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
 
+### Git
+* [Git-Extras](https://github.com/tj/git-extras)
+
 ### Angular
 * [Step by Step guide to your first Angular JS app](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
 
-###Styleguides
+### Styleguide inspirationals.
 * [Stylguides in Hologram](http://trulia.github.io/hologram/)
+* [Lonely Planet's awesome styleguide](http://engineering.lonelyplanet.com/2014/05/18/a-maintainable-styleguide.html)
+* [MailChimp's styleguide](https://ux.mailchimp.com/patterns/typography)
+* [Example with Variables for your Sass](http://webdevstudios.com/2014/12/03/website-design-workflow-creating-a-living-style-guide-2/)
+* [Styleguides vs Pattern Library: what's the difference ](http://ux.stackexchange.com/questions/13314/pattern-library-vs-style-guide-what-are-the-differences)
 
 ### interesting jQuery Libraries
 * [Javascript browser detection](https://github.com/ded/bowser)
