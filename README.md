@@ -12,7 +12,6 @@ Features for Drupal, WordPress and any other webresource:
 * [Google Chrome Dev Tools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
 * [Brad Frost Web Patterns](http://patternlab.io/)
 * [Meteor for building WebApps](https://www.meteor.com/)
-* [Awesome Github tricks](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
 * [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
 * [Photoshop Image Optimizing](http://designinstruct.com/tools-basics/5-easy-steps-optimize-your-images-photoshop/)
 * [DevTools Cheat Sheat](http://anti-code.com/devtools-cheatsheet/)
@@ -75,6 +74,7 @@ Plugins
 
 ### Git
 * [Git-Extras](https://github.com/tj/git-extras)
+* [Awesome Github tricks](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
 
 ### Angular
 * [Step by Step guide to your first Angular JS app](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
