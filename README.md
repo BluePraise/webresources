@@ -31,10 +31,12 @@ Features for Drupal, WordPress and any other webresource:
 * [Ironically, don't use normalize](http://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation)
 * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 * [Responsive Images by David Walsh](http://davidwalsh.name/responsive-images)
+
 Flexbox
   * [Dutch Guide to Flexbox](http://nl.learnlayout.com/flexbox.html)
   * [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
   * [Flexbox bugs](https://github.com/philipwalton/flexbugs)
+
 Box-Sizing doc.
   * [Paul Irish - where it all started](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
   * [CSSTricks - taking it further](http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
