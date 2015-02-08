@@ -65,6 +65,7 @@ Plugins
 ### Drupal
 * [Webwash: Articles and Videos for Drupal](http://webwash.net/articles)
 * [Drupal 8 in 2 steps](http://capgemini.github.io/drupal/drupal-8-in-2-steps/)
+* [Drupal 8 Plugins](https://drupalize.me/blog/201409/unravelling-drupal-8-plugin-system)
 
 ### Gulp
 * [Gulp Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
