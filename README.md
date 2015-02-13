@@ -6,12 +6,17 @@ Features for Drupal, WordPress and any other webresource:
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
 
-# 5 articles I've read this week:
+# 10 articles I've read this week (week 7 2015: feb 9 - feb 15):
 * [Web apps deserve sexy transitions too!](https://medium.com/@gem_ray/web-apps-deserve-sexy-transitions-too-8068a5e4cb82)
 * [Designing Case Studies: Human Centered Design Process](http://www.smashingmagazine.com/2015/02/12/designing-case-studies-human-centered-design-process/)
 * [6 Tips for a Smooth Hand-off from Designer to Developer](http://uxmovement.com/resources/6-tips-for-a-smooth-hand-off-from-designer-to-developer/)
 * [Initiative Aims to Improve the New User Experience in WordPress 4.2](http://wptavern.com/initiative-aims-to-improve-the-new-user-experience-in-wordpress-4-2)
 * [7 Things to Consider if You Hate Your Job](http://bemorewithless.com/newjob/)
+* [Snook.ca: Windows subs Helvetica Arial](http://snook.ca/archives/html_and_css/windows-subs-helvetica-arial)
+* [HeydonWorks: Confessions of a CSS expert](http://www.heydonworks.com/article/confessions-of-a-css-expert)
+* [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
+* [OOCSS/Atomic CSS are Responsive Web Design ‘anti-patterns’](http://benfrain.com/oocss-atomic-css-responsive-web-design-anti-pattern/)
+* [Hugo Giraudel: Why I Don’t Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/)
 
 # Articles
 ### All-web related
