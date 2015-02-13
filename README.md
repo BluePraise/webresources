@@ -19,6 +19,7 @@ Features for Drupal, WordPress and any other webresource:
 * [Google Chrome Dev Tools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
 * [Brad Frost Web Patterns](http://patternlab.io/)
 * [Meteor for building WebApps](https://www.meteor.com/)
+* [Framer JS for prototyping UX and animation](http://framerjs.com)
 * [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
 * [Photoshop Image Optimizing](http://designinstruct.com/tools-basics/5-easy-steps-optimize-your-images-photoshop/)
 * [DevTools Cheat Sheat](http://anti-code.com/devtools-cheatsheet/)
@@ -33,6 +34,15 @@ Features for Drupal, WordPress and any other webresource:
 ### Design and UX
 * [Redesign of CNN Breaking News](https://medium.com/@sarahdoody/the-cnn-re-design-the-user-experience-of-breaking-news-5362f671e6ac)
 * [The God Login: a study of login usability](http://blog.codinghorror.com/the-god-login/)
+* [The difference between Pattern Libraries and Styleguides - StackExhange](http://ux.stackexchange.com/questions/13314/pattern-library-vs-style-guide-what-are-the-differences)
+
+### Styleguide inspirationals.
+* [Stylguides in Hologram](http://trulia.github.io/hologram/)
+* [Lonely Planet's awesome styleguide](http://engineering.lonelyplanet.com/2014/05/18/a-maintainable-styleguide.html)
+* [MailChimp's styleguide](https://ux.mailchimp.com/patterns/typography)
+* [Example with Variables for your Sass](http://webdevstudios.com/2014/12/03/website-design-workflow-creating-a-living-style-guide-2/)
+* [Styleguides vs Pattern Library: what's the difference ](http://ux.stackexchange.com/questions/13314/pattern-library-vs-style-guide-what-are-the-differences)
+* [Jackie Balzer's Styleguide](http://jackiebalzer.com/color)
 
 ### CSS
 * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
@@ -91,15 +101,9 @@ Plugins
 ### Angular
 * [Step by Step guide to your first Angular JS app](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
 
-### Styleguide inspirationals.
-* [Stylguides in Hologram](http://trulia.github.io/hologram/)
-* [Lonely Planet's awesome styleguide](http://engineering.lonelyplanet.com/2014/05/18/a-maintainable-styleguide.html)
-* [MailChimp's styleguide](https://ux.mailchimp.com/patterns/typography)
-* [Example with Variables for your Sass](http://webdevstudios.com/2014/12/03/website-design-workflow-creating-a-living-style-guide-2/)
-* [Styleguides vs Pattern Library: what's the difference ](http://ux.stackexchange.com/questions/13314/pattern-library-vs-style-guide-what-are-the-differences)
-
 ### interesting jQuery Libraries
 * [Javascript browser detection](https://github.com/ded/bowser)
+* [Trigger a function while you scroll](http://imakewebthings.com/waypoints/)
 
 # Video's
 * [Must Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
