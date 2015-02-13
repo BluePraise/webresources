@@ -6,7 +6,14 @@ Features for Drupal, WordPress and any other webresource:
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
 
-#Articles
+# 5 articles I've read this week:
+* [Web apps deserve sexy transitions too!](https://medium.com/@gem_ray/web-apps-deserve-sexy-transitions-too-8068a5e4cb82)
+* [Designing Case Studies: Human Centered Design Process](http://www.smashingmagazine.com/2015/02/12/designing-case-studies-human-centered-design-process/)
+* [6 Tips for a Smooth Hand-off from Designer to Developer](http://uxmovement.com/resources/6-tips-for-a-smooth-hand-off-from-designer-to-developer/)
+* [Initiative Aims to Improve the New User Experience in WordPress 4.2](http://wptavern.com/initiative-aims-to-improve-the-new-user-experience-in-wordpress-4-2)
+* [7 Things to Consider if You Hate Your Job](http://bemorewithless.com/newjob/)
+
+# Articles
 ### All-web related
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Google Chrome Dev Tools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
@@ -15,13 +22,17 @@ Features for Drupal, WordPress and any other webresource:
 * [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
 * [Photoshop Image Optimizing](http://designinstruct.com/tools-basics/5-easy-steps-optimize-your-images-photoshop/)
 * [DevTools Cheat Sheat](http://anti-code.com/devtools-cheatsheet/)
+* [Working smarter](https://boagworld.com/working-in-web/work-smarter/)
+* [9 gifs that explain responsive design briliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly)
+
+### Working at:
 * [A year designing at facebook](https://medium.com/@gem_ray/a-year-of-designing-at-facebook-74ba9c292888)
 * [5 months of development internship at the guarian ](http://www.theguardian.com/info/developer-blog/2015/jan/27/five-months-in-software-development-at-the-guardian-what-weve-learned)
-* [The God Login: a study of login usability](http://blog.codinghorror.com/the-god-login/)
-* [Redesign of CNN Breaking News](https://medium.com/@sarahdoody/the-cnn-re-design-the-user-experience-of-breaking-news-5362f671e6ac)
-* [Working smarter](https://boagworld.com/working-in-web/work-smarter/)
 * [Working at Netflix](http://www.brendangregg.com/blog/2015-01-20/working-at-netflix.html)
-* [9 gifs that explain responsive design briliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly)
+
+### Design and UX
+* [Redesign of CNN Breaking News](https://medium.com/@sarahdoody/the-cnn-re-design-the-user-experience-of-breaking-news-5362f671e6ac)
+* [The God Login: a study of login usability](http://blog.codinghorror.com/the-god-login/)
 
 ### CSS
 * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
