@@ -6,7 +6,16 @@ Features for Drupal, WordPress and any other webresource:
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
 
-# 10 articles I've read this week (week 7 2015: feb 9 - feb 15):
+# 6 articles I've read this week (week 8 2015: feb 16 - feb 23):
+* [Ben Frain: Breaking up with Sass](http://benfrain.com/breaking-up-with-sass-postcss/)
+* [Nicolas Gallagher](http://nicolasgallagher.com/custom-css-preprocessing/)
+* [David Clark: Excited about Post Processing CSS](http://davidtheclark.com/excited-about-postcss/)
+* [Anna Debenham: My advice to freelancers](http://maban.co.uk/93/)
+* [The art of questioning as a UX Skill](http://uxmovement.com/thinking/the-art-of-questioning-as-a-ux-skill/)
+* [The new face of committing in GitHub for Mac](https://github.com/blog/1960-the-new-face-of-committing-in-github-for-mac)
+
+#Archive
+### 10 articles I've read this week (week 7 2015: feb 9 - feb 15):
 * [Web apps deserve sexy transitions too!](https://medium.com/@gem_ray/web-apps-deserve-sexy-transitions-too-8068a5e4cb82)
 * [Designing Case Studies: Human Centered Design Process](http://www.smashingmagazine.com/2015/02/12/designing-case-studies-human-centered-design-process/)
 * [6 Tips for a Smooth Hand-off from Designer to Developer](http://uxmovement.com/resources/6-tips-for-a-smooth-hand-off-from-designer-to-developer/)
