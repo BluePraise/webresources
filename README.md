@@ -6,15 +6,27 @@ Features for Drupal, WordPress and any other webresource:
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
 
-# 6 articles I've read this week (week 8 2015: feb 16 - feb 23):
+I'm sure it can be improved. 
+
+# 6 articles I've read this week (week 9 2015: feb 24 - mar 01):
+* [Reflections from the founder of Craigslist](https://medium.com/@craignewmark/20-years-of-craigslist-a-reflection-by-an-old-school-nerd-9fedbf1c671)
+* [How to add multiple directories in one Gulp Task](http://competa.com/blog/2015/03/how-to-add-multiple-directories-in-one-gulp-task/)
+* [IE bug: keyframe animations inside a media query block](http://blog.karenmenezes.com/2014/dec/26/ie-bug-keyframe-animations/)
+* [I read about prose.io](http://prose.io/#about)
+* [Learn about SVG](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
+* [Viget dude tests accordion menu's design and icons](http://viget.com/inspire/testing-accordion-menu-designs-iconography)
+
+#Archive
+This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
+
+### 6 articles I've read this week (week 8 2015: feb 16 - feb 23):
 * [Ben Frain: Breaking up with Sass](http://benfrain.com/breaking-up-with-sass-postcss/)
-* [Nicolas Gallagher](http://nicolasgallagher.com/custom-css-preprocessing/)
+* [Nicolas Gallagher](Custom CSS Processing)
 * [David Clark: Excited about Post Processing CSS](http://davidtheclark.com/excited-about-postcss/)
 * [Anna Debenham: My advice to freelancers](http://maban.co.uk/93/)
 * [The art of questioning as a UX Skill](http://uxmovement.com/thinking/the-art-of-questioning-as-a-ux-skill/)
 * [The new face of committing in GitHub for Mac](https://github.com/blog/1960-the-new-face-of-committing-in-github-for-mac)
 
-#Archive
 ### 10 articles I've read this week (week 7 2015: feb 9 - feb 15):
 * [Web apps deserve sexy transitions too!](https://medium.com/@gem_ray/web-apps-deserve-sexy-transitions-too-8068a5e4cb82)
 * [Designing Case Studies: Human Centered Design Process](http://www.smashingmagazine.com/2015/02/12/designing-case-studies-human-centered-design-process/)
@@ -78,6 +90,7 @@ Box-Sizing doc.
 ### SASS
 * [Andy is collection of cool mixins](http://gillesbertaux.com/andy/)
 * [Source Maps for better debugging](http://webdesign.tutsplus.com/tutorials/how-to-use-source-maps-for-better-preprocessor-debugging--cms-22735)
+* * [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
 
 ### WordPress
 * [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
