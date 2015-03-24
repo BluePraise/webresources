@@ -8,12 +8,23 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
-# 6 articles I've read this week (week 10 2015: mar 02 - mar 09):
+# 6 articles I've read this week (week 11 2015: mar 16 - mar 22):
+* [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations) 
+* [Metalanguages on Wikipedia](http://en.wikipedia.org/wiki/Metalanguage#Nested_metalanguage)
+* UX [Fitts's Law](http://en.wikipedia.org/wiki/Fitts%27s_law)
+* [http://www.smashingmagazine.com/2015/03/23/content-mobile-content-strategy/](http://www.smashingmagazine.com/2015/03/23/content-mobile-content-strategy/)
+* [Browser Input Events: Can We Do Better Than The Click?](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/)
+* meh --> [300 awesome free things](http://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/)
+
+# 5 articles I've read this week (week 10 2015: mar 02 - mar 09):
 * [Three alternatives to improve on links](https://medium.com/de-correspondent/links-are-broken-these-three-alternatives-have-improved-our-readers-reading-experience-796c302c8930)
 * [How to use flexbox in webapps today](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
 * [Using flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/)
 * [The State Of The Mobile Enterprise: How Businesses Are Using Mobile](http://www.forbes.com/sites/frankbi/2015/03/05/the-state-of-the-mobile-enterprise-how-businesses-are-using-mobile-infographic/)
 * [The Poorman's Styleguide](http://www.poormansstyleguide.com/)
+
+#Archive
+This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 
 # 6 articles I've read this week (week 9 2015: feb 24 - mar 01):
 * [Reflections from the founder of Craigslist](https://medium.com/@craignewmark/20-years-of-craigslist-a-reflection-by-an-old-school-nerd-9fedbf1c671)
@@ -22,9 +33,6 @@ I'm sure it can be improved.
 * [I read about prose.io](http://prose.io/#about)
 * [Learn about SVG](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
 * [Viget dude tests accordion menu's design and icons](http://viget.com/inspire/testing-accordion-menu-designs-iconography)
-
-#Archive
-This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 
 ### 6 articles I've read this week (week 8 2015: feb 16 - feb 23):
 * [Ben Frain: Breaking up with Sass](http://benfrain.com/breaking-up-with-sass-postcss/)
@@ -68,6 +76,8 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Redesign of CNN Breaking News](https://medium.com/@sarahdoody/the-cnn-re-design-the-user-experience-of-breaking-news-5362f671e6ac)
 * [The God Login: a study of login usability](http://blog.codinghorror.com/the-god-login/)
 * [The difference between Pattern Libraries and Styleguides - StackExhange](http://ux.stackexchange.com/questions/13314/pattern-library-vs-style-guide-what-are-the-differences)
+* [Online Screenshot testing](https://www.optimalworkshop.com/chalkmark.htm)
+* [Fitts's law](http://en.wikipedia.org/wiki/Fitts%27s_law)
 
 ### Styleguide inspirationals.
 * [Stylguides in Hologram](http://trulia.github.io/hologram/)
