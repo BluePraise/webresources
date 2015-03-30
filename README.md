@@ -8,7 +8,15 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
-# 6 articles I've read this week (week 11 2015: mar 16 - mar 22):
+# 6 articles I've read this week (week 13 2015: mar 23 - mar 30):  
+* [Sass: the inception rule](http://thesassway.com/beginner/the-inception-rule)
+* [CSS Best Practices by @LukeW](http://www.lukew.com/ff/entry.asp?1469)
+* [The best icon is a text label](http://thomasbyttebier.be/blog/the-best-icon-is-a-text-lab)
+* [Open thread: why use css preprocessors](http://sixrevisions.com/open-thread/why-use-css-preprocessors/)
+* [Testing search box variations](http://viget.com/inspire/refreshing-search-testing-search-box-variations)
+* [NO DICKHEADS! A Guide To Building Happy, Healthy, and Creative Teams.](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d)
+
+# 6 articles I've read this week (week 12 2015: mar 16 - mar 22):
 * [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations) 
 * [Metalanguages on Wikipedia](http://en.wikipedia.org/wiki/Metalanguage#Nested_metalanguage)
 * UX [Fitts's Law](http://en.wikipedia.org/wiki/Fitts%27s_law)
@@ -16,15 +24,15 @@ I'm sure it can be improved.
 * [Browser Input Events: Can We Do Better Than The Click?](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/)
 * meh --> [300 awesome free things](http://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/)
 
+#Archive
+This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
+
 # 5 articles I've read this week (week 10 2015: mar 02 - mar 09):
 * [Three alternatives to improve on links](https://medium.com/de-correspondent/links-are-broken-these-three-alternatives-have-improved-our-readers-reading-experience-796c302c8930)
 * [How to use flexbox in webapps today](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
 * [Using flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/)
 * [The State Of The Mobile Enterprise: How Businesses Are Using Mobile](http://www.forbes.com/sites/frankbi/2015/03/05/the-state-of-the-mobile-enterprise-how-businesses-are-using-mobile-infographic/)
 * [The Poorman's Styleguide](http://www.poormansstyleguide.com/)
-
-#Archive
-This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 
 # 6 articles I've read this week (week 9 2015: feb 24 - mar 01):
 * [Reflections from the founder of Craigslist](https://medium.com/@craignewmark/20-years-of-craigslist-a-reflection-by-an-old-school-nerd-9fedbf1c671)
@@ -41,18 +49,6 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Anna Debenham: My advice to freelancers](http://maban.co.uk/93/)
 * [The art of questioning as a UX Skill](http://uxmovement.com/thinking/the-art-of-questioning-as-a-ux-skill/)
 * [The new face of committing in GitHub for Mac](https://github.com/blog/1960-the-new-face-of-committing-in-github-for-mac)
-
-### 10 articles I've read this week (week 7 2015: feb 9 - feb 15):
-* [Web apps deserve sexy transitions too!](https://medium.com/@gem_ray/web-apps-deserve-sexy-transitions-too-8068a5e4cb82)
-* [Designing Case Studies: Human Centered Design Process](http://www.smashingmagazine.com/2015/02/12/designing-case-studies-human-centered-design-process/)
-* [6 Tips for a Smooth Hand-off from Designer to Developer](http://uxmovement.com/resources/6-tips-for-a-smooth-hand-off-from-designer-to-developer/)
-* [Initiative Aims to Improve the New User Experience in WordPress 4.2](http://wptavern.com/initiative-aims-to-improve-the-new-user-experience-in-wordpress-4-2)
-* [7 Things to Consider if You Hate Your Job](http://bemorewithless.com/newjob/)
-* [Snook.ca: Windows subs Helvetica Arial](http://snook.ca/archives/html_and_css/windows-subs-helvetica-arial)
-* [HeydonWorks: Confessions of a CSS expert](http://www.heydonworks.com/article/confessions-of-a-css-expert)
-* [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
-* [OOCSS/Atomic CSS are Responsive Web Design ‘anti-patterns’](http://benfrain.com/oocss-atomic-css-responsive-web-design-anti-pattern/)
-* [Hugo Giraudel: Why I Don’t Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/)
 
 # Articles
 ### All-web related
