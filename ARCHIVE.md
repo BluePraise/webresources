@@ -4,6 +4,15 @@ This is the archive to [my original webresources](). Some go to [that page]() an
 On [that page]() you can find the webresources of a few weeks back.
 
 
+### 6 articles I've read this week (week 8 2015: feb 16 - feb 23):
+* [Ben Frain: Breaking up with Sass](http://benfrain.com/breaking-up-with-sass-postcss/)
+* [Nicolas Gallagher](Custom CSS Processing)
+* [David Clark: Excited about Post Processing CSS](http://davidtheclark.com/excited-about-postcss/)
+* [Anna Debenham: My advice to freelancers](http://maban.co.uk/93/)
+* [The art of questioning as a UX Skill](http://uxmovement.com/thinking/the-art-of-questioning-as-a-ux-skill/)
+* [The new face of committing in GitHub for Mac](https://github.com/blog/1960-the-new-face-of-committing-in-github-for-mac)
+
+
 ### 10 articles I've read this week (week 7 2015: feb 9 - feb 15):
 * [Web apps deserve sexy transitions too!](https://medium.com/@gem_ray/web-apps-deserve-sexy-transitions-too-8068a5e4cb82)
 * [Designing Case Studies: Human Centered Design Process](http://www.smashingmagazine.com/2015/02/12/designing-case-studies-human-centered-design-process/)
