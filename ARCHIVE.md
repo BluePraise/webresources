@@ -3,6 +3,13 @@
 This is the archive to [my original webresources](). Some go to [that page]() and the rest stays here.
 On [that page]() you can find the webresources of a few weeks back.
 
+### 6 articles I've read this week (week 9 2015: feb 24 - mar 01):
+* [Reflections from the founder of Craigslist](https://medium.com/@craignewmark/20-years-of-craigslist-a-reflection-by-an-old-school-nerd-9fedbf1c671)
+* [How to add multiple directories in one Gulp Task](http://competa.com/blog/2015/03/how-to-add-multiple-directories-in-one-gulp-task/)
+* [IE bug: keyframe animations inside a media query block](http://blog.karenmenezes.com/2014/dec/26/ie-bug-keyframe-animations/)
+* [I read about prose.io](http://prose.io/#about)
+* [Learn about SVG](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
+* [Viget dude tests accordion menu's design and icons](http://viget.com/inspire/testing-accordion-menu-designs-iconography)
 
 ### 6 articles I've read this week (week 8 2015: feb 16 - feb 23):
 * [Ben Frain: Breaking up with Sass](http://benfrain.com/breaking-up-with-sass-postcss/)

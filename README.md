@@ -8,6 +8,9 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
+### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
+
+
 ### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
 * Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
 * UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)
@@ -38,14 +41,6 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Using flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/)
 * [The State Of The Mobile Enterprise: How Businesses Are Using Mobile](http://www.forbes.com/sites/frankbi/2015/03/05/the-state-of-the-mobile-enterprise-how-businesses-are-using-mobile-infographic/)
 * [The Poorman's Styleguide](http://www.poormansstyleguide.com/)
-
-### 6 articles I've read this week (week 9 2015: feb 24 - mar 01):
-* [Reflections from the founder of Craigslist](https://medium.com/@craignewmark/20-years-of-craigslist-a-reflection-by-an-old-school-nerd-9fedbf1c671)
-* [How to add multiple directories in one Gulp Task](http://competa.com/blog/2015/03/how-to-add-multiple-directories-in-one-gulp-task/)
-* [IE bug: keyframe animations inside a media query block](http://blog.karenmenezes.com/2014/dec/26/ie-bug-keyframe-animations/)
-* [I read about prose.io](http://prose.io/#about)
-* [Learn about SVG](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
-* [Viget dude tests accordion menu's design and icons](http://viget.com/inspire/testing-accordion-menu-designs-iconography)
 
 # Articles
 ### All-web related
@@ -79,6 +74,7 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Example with Variables for your Sass](http://webdevstudios.com/2014/12/03/website-design-workflow-creating-a-living-style-guide-2/)
 * [Styleguides vs Pattern Library: what's the difference ](http://ux.stackexchange.com/questions/13314/pattern-library-vs-style-guide-what-are-the-differences)
 * [Jackie Balzer's Styleguide](http://jackiebalzer.com/color)
+* [The Poorman's Styleguide](http://www.poormansstyleguide.com/)
 
 ### CSS
 * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
