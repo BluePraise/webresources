@@ -9,7 +9,9 @@ Features for Drupal, WordPress and any other webresource:
 I'm sure it can be improved. 
 
 ### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
-
+* [Let links be links](http://alistapart.com/article/let-links-be-links)
+* grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
+* 
 
 ### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
 * Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
@@ -96,7 +98,8 @@ Box-Sizing doc.
 ### SASS
 * [Andy is collection of cool mixins](http://gillesbertaux.com/andy/)
 * [Source Maps for better debugging](http://webdesign.tutsplus.com/tutorials/how-to-use-source-maps-for-better-preprocessor-debugging--cms-22735)
-* * [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
+* [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
+* [gridle.org](http://gridle.org/#home_what-the-fuck)
 
 ### WordPress
 * [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
