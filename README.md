@@ -11,7 +11,7 @@ I'm sure it can be improved.
 ### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
 * [Let links be links](http://alistapart.com/article/let-links-be-links)
 * grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
-* 
+* [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
 
 ### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
 * Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
