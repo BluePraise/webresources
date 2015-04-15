@@ -9,7 +9,7 @@ Features for Drupal, WordPress and any other webresource:
 I'm sure it can be improved. 
 
 ### 3 articles I've read this week (week 16 2015: apr 14 - apr 21):
-
+* Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
 
 ### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
 * [Let links be links](http://alistapart.com/article/let-links-be-links)
