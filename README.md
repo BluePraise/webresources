@@ -9,6 +9,7 @@ Features for Drupal, WordPress and any other webresource:
 I'm sure it can be improved. 
 
 ### 3 articles I've read this week (week 17 2015: apr 21 - apr 28):
+* Ben Frain goes back to using pixels [Just use pixels](http://benfrain.com/just-use-pixels/)
 
 
 ### 3 articles I've read this week (week 16 2015: apr 14 - apr 20):
