@@ -8,6 +8,9 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
+### 3 articles I've read this week (week 17 2015: apr 21 - apr 28):
+
+
 ### 3 articles I've read this week (week 16 2015: apr 14 - apr 20):
 * Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
 * SEO article from Yoast [Changing URLS in search results](https://yoast.com/changing-urls-in-search-results/)
@@ -23,6 +26,9 @@ I'm sure it can be improved.
 * UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)
 * [UX Flows: how to help users search for what they need on your site](http://www.dtelepathy.com/blog/design/ux-flows-how-to-help-users-search-for-what-they-need-on-your-site)
 
+#Archive
+This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
+
 ### 6 articles I've read this week (week 13 2015: mar 23 - mar 30):  
 * [Sass: the inception rule](http://thesassway.com/beginner/the-inception-rule)
 * [CSS Best Practices by @LukeW](http://www.lukew.com/ff/entry.asp?1469)
@@ -30,9 +36,6 @@ I'm sure it can be improved.
 * [Open thread: why use css preprocessors](http://sixrevisions.com/open-thread/why-use-css-preprocessors/)
 * [Testing search box variations](http://viget.com/inspire/refreshing-search-testing-search-box-variations)
 * [NO DICKHEADS! A Guide To Building Happy, Healthy, and Creative Teams.](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d)
-
-#Archive
-This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 
 ### 6 articles I've read this week (week 12 2015: mar 16 - mar 22):
 * [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations) 
@@ -42,12 +45,6 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Browser Input Events: Can We Do Better Than The Click?](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/)
 * meh --> [300 awesome free things](http://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/)
 
-### 5 articles I've read this week (week 10 2015: mar 02 - mar 09):
-* [Three alternatives to improve on links](https://medium.com/de-correspondent/links-are-broken-these-three-alternatives-have-improved-our-readers-reading-experience-796c302c8930)
-* [How to use flexbox in webapps today](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
-* [Using flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/)
-* [The State Of The Mobile Enterprise: How Businesses Are Using Mobile](http://www.forbes.com/sites/frankbi/2015/03/05/the-state-of-the-mobile-enterprise-how-businesses-are-using-mobile-infographic/)
-* [The Poorman's Styleguide](http://www.poormansstyleguide.com/)
 
 # Articles
 ### All-web related

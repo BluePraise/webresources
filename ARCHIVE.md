@@ -3,6 +3,14 @@
 This is the archive to [my original webresources](). Some go to [that page]() and the rest stays here.
 On [that page]() you can find the webresources of a few weeks back.
 
+
+### 5 articles I've read this week (week 10 2015: mar 02 - mar 09):
+* [Three alternatives to improve on links](https://medium.com/de-correspondent/links-are-broken-these-three-alternatives-have-improved-our-readers-reading-experience-796c302c8930)
+* [How to use flexbox in webapps today](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
+* [Using flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/)
+* [The State Of The Mobile Enterprise: How Businesses Are Using Mobile](http://www.forbes.com/sites/frankbi/2015/03/05/the-state-of-the-mobile-enterprise-how-businesses-are-using-mobile-infographic/)
+* [The Poorman's Styleguide](http://www.poormansstyleguide.com/)
+
 ### 6 articles I've read this week (week 9 2015: feb 24 - mar 01):
 * [Reflections from the founder of Craigslist](https://medium.com/@craignewmark/20-years-of-craigslist-a-reflection-by-an-old-school-nerd-9fedbf1c671)
 * [How to add multiple directories in one Gulp Task](http://competa.com/blog/2015/03/how-to-add-multiple-directories-in-one-gulp-task/)
