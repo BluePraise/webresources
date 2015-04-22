@@ -8,11 +8,12 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
-### 3 articles I've read this week (week 17 2015: apr 21 - apr 28):
-* Ben Frain goes back to using pixels [Just use pixels](http://benfrain.com/just-use-pixels/)
+### 5 articles I've read this week (week 17 2015: apr 21 - apr 28):
 * [Using Sketch For Responsive Web Design (A Case Study)](http://www.smashingmagazine.com/2015/04/17/using-sketch-for-responsive-web-design-case-study/)
 * [Responsive Web Design Adoption, 2014](http://www.guypo.com/rwd-2014/)
-
+* [Sass theming with configuration files](http://www.sitepoint.com/sass-theming-withconfiguration-files/)
+* [Responsive typography in Sass](http://www.sitepoint.com/sass-responsive-typography/)
+* Ben Frain goes back to using pixels [Just use pixels](http://benfrain.com/just-use-pixels/)
 
 ### 3 articles I've read this week (week 16 2015: apr 14 - apr 20):
 * Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
