@@ -3,6 +3,13 @@
 This is the archive to [my original webresources](). Some go to [that page]() and the rest stays here.
 On [that page]() you can find the webresources of a few weeks back.
 
+### 6 articles I've read this week (week 12 2015: mar 16 - mar 22):
+* [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations) 
+* [Metalanguages on Wikipedia](http://en.wikipedia.org/wiki/Metalanguage#Nested_metalanguage)
+* UX [Fitts's Law](http://en.wikipedia.org/wiki/Fitts%27s_law)
+* [http://www.smashingmagazine.com/2015/03/23/content-mobile-content-strategy/](http://www.smashingmagazine.com/2015/03/23/content-mobile-content-strategy/)
+* [Browser Input Events: Can We Do Better Than The Click?](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/)
+* meh --> [300 awesome free things](http://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/)
 
 ### 5 articles I've read this week (week 10 2015: mar 02 - mar 09):
 * [Three alternatives to improve on links](https://medium.com/de-correspondent/links-are-broken-these-three-alternatives-have-improved-our-readers-reading-experience-796c302c8930)

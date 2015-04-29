@@ -7,6 +7,8 @@ Features for Drupal, WordPress and any other webresource:
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
 
 I'm sure it can be improved. 
+### 5 articles I've read this week (week 17 2015: apr 29 - may 03):
+* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
 
 ### 5 articles I've read this week (week 17 2015: apr 21 - apr 28):
 * [Using Sketch For Responsive Web Design (A Case Study)](http://www.smashingmagazine.com/2015/04/17/using-sketch-for-responsive-web-design-case-study/)
@@ -25,13 +27,14 @@ I'm sure it can be improved.
 * grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
 * [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
 
+
+#Archive
+This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
+
 ### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
 * Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
 * UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)
 * [UX Flows: how to help users search for what they need on your site](http://www.dtelepathy.com/blog/design/ux-flows-how-to-help-users-search-for-what-they-need-on-your-site)
-
-#Archive
-This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 
 ### 6 articles I've read this week (week 13 2015: mar 23 - mar 30):  
 * [Sass: the inception rule](http://thesassway.com/beginner/the-inception-rule)
@@ -40,15 +43,6 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Open thread: why use css preprocessors](http://sixrevisions.com/open-thread/why-use-css-preprocessors/)
 * [Testing search box variations](http://viget.com/inspire/refreshing-search-testing-search-box-variations)
 * [NO DICKHEADS! A Guide To Building Happy, Healthy, and Creative Teams.](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d)
-
-### 6 articles I've read this week (week 12 2015: mar 16 - mar 22):
-* [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations) 
-* [Metalanguages on Wikipedia](http://en.wikipedia.org/wiki/Metalanguage#Nested_metalanguage)
-* UX [Fitts's Law](http://en.wikipedia.org/wiki/Fitts%27s_law)
-* [http://www.smashingmagazine.com/2015/03/23/content-mobile-content-strategy/](http://www.smashingmagazine.com/2015/03/23/content-mobile-content-strategy/)
-* [Browser Input Events: Can We Do Better Than The Click?](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/)
-* meh --> [300 awesome free things](http://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/)
-
 
 # Articles
 ### All-web related
@@ -102,6 +96,7 @@ Box-Sizing doc.
   * [CSSTricks - taking it further](http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
 ### SASS
+* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
 * [Andy is collection of cool mixins](http://gillesbertaux.com/andy/)
 * [Source Maps for better debugging](http://webdesign.tutsplus.com/tutorials/how-to-use-source-maps-for-better-preprocessor-debugging--cms-22735)
 * [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
