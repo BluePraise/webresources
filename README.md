@@ -7,6 +7,10 @@ Features for Drupal, WordPress and any other webresource:
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
 
 I'm sure it can be improved. 
+
+### 2 articles I've read this week (week 19 2015: may 04 - may 11):
+* [Rethinking Treadmill Interface](https://medium.com/@wlmsng/rethinking-treadmill-interface-280f03ae7e03?mc_cid=ec02ba64fc&mc_eid=d146ba1db1)
+
 ### 2 articles I've read this week (week 18 2015: apr 29 - may 03):
 * [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
 * [Masonry with Susy by Zell](http://www.zell-weekeat.com/masonry-with-susy/)
