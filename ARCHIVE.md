@@ -3,6 +3,11 @@
 This is the archive to [my original webresources](). Some go to [that page]() and the rest stays here.
 On [that page]() you can find the webresources of a few weeks back.
 
+### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
+* [Let links be links](http://alistapart.com/article/let-links-be-links)
+* grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
+* [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
+
 ### 6 articles I've read this week (week 12 2015: mar 16 - mar 22):
 * [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations) 
 * [Metalanguages on Wikipedia](http://en.wikipedia.org/wiki/Metalanguage#Nested_metalanguage)

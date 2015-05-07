@@ -8,8 +8,12 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
-### 2 articles I've read this week (week 19 2015: may 04 - may 11):
-* [Rethinking Treadmill Interface](https://medium.com/@wlmsng/rethinking-treadmill-interface-280f03ae7e03?mc_cid=ec02ba64fc&mc_eid=d146ba1db1)
+### 5 articles I've read this week (week 19 2015: may 04 - may 11):
+* [Using @extended in Sass without making a mess](http://www.smashingmagazine.com/2015/05/04/extending-in-sass-without-mess/)
+* UX design[Rethinking Treadmill Interface](https://medium.com/@wlmsng/rethinking-treadmill-interface-280f03ae7e03?mc_cid=ec02ba64fc&mc_eid=d146ba1db1)
+* Not really an article, but: [How to center in css](http://howtocenterincss.com/)
+* WordPress and REST:[The REST API (and How It Could Change WordPress Forever)](http://premium.wpmudev.org/blog/wordpress-rest-api/)
+* [Examples of the Marvel API](http://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API)
 
 ### 2 articles I've read this week (week 18 2015: apr 29 - may 03):
 * [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
@@ -27,27 +31,19 @@ I'm sure it can be improved.
 * SEO article from Yoast [Changing URLS in search results](https://yoast.com/changing-urls-in-search-results/)
 * [What's it like to contribute to Wordpress](http://sixrevisions.com/wordpress/contribute-to-wordpress/)
 
+
+#Archive
+This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
+
 ### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
 * [Let links be links](http://alistapart.com/article/let-links-be-links)
 * grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
 * [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
 
-
-#Archive
-This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
-
 ### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
 * Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
 * UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)
 * [UX Flows: how to help users search for what they need on your site](http://www.dtelepathy.com/blog/design/ux-flows-how-to-help-users-search-for-what-they-need-on-your-site)
-
-### 6 articles I've read this week (week 13 2015: mar 23 - mar 30):  
-* [Sass: the inception rule](http://thesassway.com/beginner/the-inception-rule)
-* [CSS Best Practices by @LukeW](http://www.lukew.com/ff/entry.asp?1469)
-* [The best icon is a text label](http://thomasbyttebier.be/blog/the-best-icon-is-a-text-lab)
-* [Open thread: why use css preprocessors](http://sixrevisions.com/open-thread/why-use-css-preprocessors/)
-* [Testing search box variations](http://viget.com/inspire/refreshing-search-testing-search-box-variations)
-* [NO DICKHEADS! A Guide To Building Happy, Healthy, and Creative Teams.](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d)
 
 # Articles
 ### All-web related
