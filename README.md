@@ -8,6 +8,13 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
+### 5 articles I've read this week (week 21 2015: may 18 - may 24):
+* [Do not learn frameworks, learn the architecture.](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture) [via](https://github.com/anandgraves/frontend-developer-bookmarks)
+* [How I learned to stop worrying and love React. Especially, the comments!](http://firstdoit.com/react-1/)
+* [Updating dependencies in a package json](http://alwaystwisted.com/articles/updating-dependencies-in-a-packagejson)
+* [Sass helpers for older browsers](http://www.sitepoint.com/sass-helpers-older-browsers/)
+* [How to reset your WordPress website](http://premium.wpmudev.org/blog/reset-wordpress/)
+
 ### 6 articles I've read this week (week 19 2015: may 04 - may 11):
 * [Using @extended in Sass without making a mess](http://www.smashingmagazine.com/2015/05/04/extending-in-sass-without-mess/)
 * UX design[Rethinking Treadmill Interface](https://medium.com/@wlmsng/rethinking-treadmill-interface-280f03ae7e03?mc_cid=ec02ba64fc&mc_eid=d146ba1db1)
@@ -27,11 +34,6 @@ I'm sure it can be improved.
 * [Responsive typography in Sass](http://www.sitepoint.com/sass-responsive-typography/)
 * Ben Frain goes back to using pixels [Just use pixels](http://benfrain.com/just-use-pixels/)
 
-### 3 articles I've read this week (week 16 2015: apr 14 - apr 20):
-* Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
-* SEO article from Yoast [Changing URLS in search results](https://yoast.com/changing-urls-in-search-results/)
-* [What's it like to contribute to Wordpress](http://sixrevisions.com/wordpress/contribute-to-wordpress/)
-
 
 #Archive
 This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
@@ -41,10 +43,11 @@ This list was getting super long so I've put it in [the archive page](http://git
 * grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
 * [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
 
-### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
-* Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
-* UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)
-* [UX Flows: how to help users search for what they need on your site](http://www.dtelepathy.com/blog/design/ux-flows-how-to-help-users-search-for-what-they-need-on-your-site)
+### 3 articles I've read this week (week 16 2015: apr 14 - apr 20):
+* Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
+* SEO article from Yoast [Changing URLS in search results](https://yoast.com/changing-urls-in-search-results/)
+* [What's it like to contribute to Wordpress](http://sixrevisions.com/wordpress/contribute-to-wordpress/)
+
 
 # Articles
 ### All-web related

@@ -3,6 +3,11 @@
 This is the archive to [my original webresources](). Some go to [that page]() and the rest stays here.
 On [that page]() you can find the webresources of a few weeks back.
 
+### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
+* Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
+* UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)
+* [UX Flows: how to help users search for what they need on your site](http://www.dtelepathy.com/blog/design/ux-flows-how-to-help-users-search-for-what-they-need-on-your-site)
+
 ### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
 * [Let links be links](http://alistapart.com/article/let-links-be-links)
 * grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
