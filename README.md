@@ -8,6 +8,9 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
+### 5 articles I've read this week (week 22 2015: may 25 - may 31):
+* [CSS Values and Units](http://demosthenes.info/blog/660/Using-vw-and-vh-Measurements-In-Modern-Site-Design)
+
 ### 5 articles I've read this week (week 21 2015: may 18 - may 24):
 * [Do not learn frameworks, learn the architecture.](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture) [via](https://github.com/anandgraves/frontend-developer-bookmarks)
 * [How I learned to stop worrying and love React. Especially, the comments!](http://firstdoit.com/react-1/)
@@ -27,16 +30,15 @@ I'm sure it can be improved.
 * [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
 * [Masonry with Susy by Zell](http://www.zell-weekeat.com/masonry-with-susy/)
 
+#Archive
+This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
+
 ### 5 articles I've read this week (week 17 2015: apr 21 - apr 28):
 * [Using Sketch For Responsive Web Design (A Case Study)](http://www.smashingmagazine.com/2015/04/17/using-sketch-for-responsive-web-design-case-study/)
 * [Responsive Web Design Adoption, 2014](http://www.guypo.com/rwd-2014/)
 * [Sass theming with configuration files](http://www.sitepoint.com/sass-theming-withconfiguration-files/)
 * [Responsive typography in Sass](http://www.sitepoint.com/sass-responsive-typography/)
 * Ben Frain goes back to using pixels [Just use pixels](http://benfrain.com/just-use-pixels/)
-
-
-#Archive
-This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 
 ### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
 * [Let links be links](http://alistapart.com/article/let-links-be-links)
@@ -112,6 +114,7 @@ Box-Sizing doc.
 * [WordPress Site Migration](http://wpshout.com/commonsense-wordpress-site-migration/)
 * [Wordpress Security Measures](http://premium.wpmudev.org/blog/keeping-wordpress-secure-the-ultimate-guide/)
 * [How to fix error 406 in wordpress](https://www.tipsandtricks-hq.com/apache-mod-security-update-how-to-fix-error-406-or-not-acceptable-issue-259)
+* [How to reset your WordPress website](http://premium.wpmudev.org/blog/reset-wordpress/)
 
 Optimizing
 * [Wordpress Optimizing that goes wrong](http://www.smashingmagazine.com/2014/03/21/wordpress-performance-improvements-that-can-go-wrong/)
