@@ -10,6 +10,7 @@ I'm sure it can be improved.
 
 ### 5 articles I've read this week (week 22 2015: may 25 - may 31):
 * [CSS Values and Units](http://demosthenes.info/blog/660/Using-vw-and-vh-Measurements-In-Modern-Site-Design)
+* [Slideshow Responsive Typography with SASS](http://www.slideshare.net/JamesSteinbach/responsive-typography-47632381)
 
 ### 5 articles I've read this week (week 21 2015: may 18 - may 24):
 * [Do not learn frameworks, learn the architecture.](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture) [via](https://github.com/anandgraves/frontend-developer-bookmarks)
