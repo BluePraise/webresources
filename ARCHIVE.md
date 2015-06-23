@@ -3,6 +3,11 @@
 This is the archive to [my original webresources](). Some go to [that page]() and the rest stays here.
 On [that page]() you can find the webresources of a few weeks back.
 
+### 3 articles I've read this week (week 16 2015: apr 14 - apr 20):
+* Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
+* SEO article from Yoast [Changing URLS in search results](https://yoast.com/changing-urls-in-search-results/)
+* [What's it like to contribute to Wordpress](http://sixrevisions.com/wordpress/contribute-to-wordpress/)
+
 ### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
 * Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
 * UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)

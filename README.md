@@ -8,6 +8,10 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
+### 5 articles I've read this week (week 26 2015: june 22 - june 28):
+* [Keynote Motion Graphics by Linda Dong](http://www.lindadong.com/blog/keynotemotiongraphic?mc_cid=873f027b92&mc_eid=d146ba1db10)
+*
+
 ### 5 articles I've read this week (week 22 2015: may 25 - may 31):
 * [CSS Values and Units](http://demosthenes.info/blog/660/Using-vw-and-vh-Measurements-In-Modern-Site-Design)
 * [Slideshow Responsive Typography with SASS](http://www.slideshare.net/JamesSteinbach/responsive-typography-47632381)
@@ -27,12 +31,13 @@ I'm sure it can be improved.
 * [Examples of the Marvel API](http://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API)
 * [Dynamically Load Webfonts in Sass](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html)
 
-### 2 articles I've read this week (week 18 2015: apr 29 - may 03):
-* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
-* [Masonry with Susy by Zell](http://www.zell-weekeat.com/masonry-with-susy/)
 
 #Archive
 This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
+
+### 2 articles I've read this week (week 18 2015: apr 29 - may 03):
+* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
+* [Masonry with Susy by Zell](http://www.zell-weekeat.com/masonry-with-susy/)
 
 ### 5 articles I've read this week (week 17 2015: apr 21 - apr 28):
 * [Using Sketch For Responsive Web Design (A Case Study)](http://www.smashingmagazine.com/2015/04/17/using-sketch-for-responsive-web-design-case-study/)
@@ -45,11 +50,6 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Let links be links](http://alistapart.com/article/let-links-be-links)
 * grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
 * [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
-
-### 3 articles I've read this week (week 16 2015: apr 14 - apr 20):
-* Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
-* SEO article from Yoast [Changing URLS in search results](https://yoast.com/changing-urls-in-search-results/)
-* [What's it like to contribute to Wordpress](http://sixrevisions.com/wordpress/contribute-to-wordpress/)
 
 
 # Articles
