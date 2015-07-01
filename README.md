@@ -8,13 +8,16 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
-### 5 articles I've read this week (week 26 2015: june 22 - june 28):
+### 1 articles I've read this week (week 26 2015: june 29 - july 5):
+*[How to structure your typography in Sass](http://chipcullen.com/how-to-structure-your-typography-in-sass/)
+
+### 54 articles I've read this week (week 26 2015: june 22 - june 28):
 * [Keynote Motion Graphics by Linda Dong](http://www.lindadong.com/blog/keynotemotiongraphic?mc_cid=873f027b92&mc_eid=d146ba1db10)
 * [Responsive Typography with Sass Maps](http://www.smashingmagazine.com/2015/06/17/responsive-typography-with-sass-maps/)
 * [Viewport sized typography with minimum and maximum values](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html)
 * [A sass approach to theming components](http://www.ian-thomas.net/a-sassy-approach-to-theming-components/)
 
-### 5 articles I've read this week (week 22 2015: may 25 - may 31):
+### 2 articles I've read this week (week 22 2015: may 25 - may 31):
 * [CSS Values and Units](http://demosthenes.info/blog/660/Using-vw-and-vh-Measurements-In-Modern-Site-Design)
 * [Slideshow Responsive Typography with SASS](http://www.slideshare.net/JamesSteinbach/responsive-typography-47632381)
 
@@ -160,6 +163,7 @@ Plugins
 
 ### Slides and such
 * [Addy Osmani Front end tooling workflows](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
+* [Front-end Dev Book](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 # Docs
 * [Drupal.org](http://drupal.org)
