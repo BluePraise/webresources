@@ -8,10 +8,12 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
-### 3 articles I've read this week (week 26 2015: june 29 - july 5):
+### 5 articles I've read this week (week 26 2015: june 29 - july 5):
 * [How to structure your typography in Sass](http://chipcullen.com/how-to-structure-your-typography-in-sass/)
 * [Sliders in WordPress Sites](http://premium.wpmudev.org/blog/wordpress-sliders/?dsh=1&utm_expid=3606929-40.lszTaIEzTbifDhvhVdd39A.1&mc_cid=58ec28e9f7&mc_eid=8c1772d191)
 * [Improve the quality of your code in Wordpress](http://premium.wpmudev.org/blog/improving-code-quality)
+* [Type Setting Mixin](https://gist.github.com/iainspad/d3df585d2ebd78a06b6a)
+* [Sass Styleguide](http://www.liveeditorcms.com/gc/playbook/sass-css-style-guide/)
 
 ### 54 articles I've read this week (week 26 2015: june 22 - june 28):
 * [Keynote Motion Graphics by Linda Dong](http://www.lindadong.com/blog/keynotemotiongraphic?mc_cid=873f027b92&mc_eid=d146ba1db10)
@@ -92,6 +94,7 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Styleguides vs Pattern Library: what's the difference ](http://ux.stackexchange.com/questions/13314/pattern-library-vs-style-guide-what-are-the-differences)
 * [Jackie Balzer's Styleguide](http://jackiebalzer.com/color)
 * [The Poorman's Styleguide](http://www.poormansstyleguide.com/)
+* [Sass Styleguide](http://www.liveeditorcms.com/gc/playbook/sass-css-style-guide/)
 
 ### CSS
 * [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
