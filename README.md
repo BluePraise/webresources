@@ -8,8 +8,10 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
-### 1 articles I've read this week (week 26 2015: june 29 - july 5):
-*[How to structure your typography in Sass](http://chipcullen.com/how-to-structure-your-typography-in-sass/)
+### 3 articles I've read this week (week 26 2015: june 29 - july 5):
+* [How to structure your typography in Sass](http://chipcullen.com/how-to-structure-your-typography-in-sass/)
+* [Sliders in WordPress Sites](http://premium.wpmudev.org/blog/wordpress-sliders/?dsh=1&utm_expid=3606929-40.lszTaIEzTbifDhvhVdd39A.1&mc_cid=58ec28e9f7&mc_eid=8c1772d191)
+* [Improve the quality of your code in Wordpress](http://premium.wpmudev.org/blog/improving-code-quality)
 
 ### 54 articles I've read this week (week 26 2015: june 22 - june 28):
 * [Keynote Motion Graphics by Linda Dong](http://www.lindadong.com/blog/keynotemotiongraphic?mc_cid=873f027b92&mc_eid=d146ba1db10)
