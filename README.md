@@ -6,7 +6,9 @@ Features for Drupal, WordPress and any other webresource:
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
 
-I'm sure it can be improved. 
+I'm sure it can be improved.
+### 1 articles I've read this week (week 37 2015: june 29 - july 5):
+* [BEM-resources](https://github.com/sturobson/BEM-resources)
 
 ### 5 articles I've read this week (week 26 2015: june 29 - july 5):
 * [How to structure your typography in Sass](http://chipcullen.com/how-to-structure-your-typography-in-sass/)
@@ -14,6 +16,9 @@ I'm sure it can be improved.
 * [Improve the quality of your code in Wordpress](http://premium.wpmudev.org/blog/improving-code-quality)
 * [Type Setting Mixin](https://gist.github.com/iainspad/d3df585d2ebd78a06b6a)
 * [Sass Styleguide](http://www.liveeditorcms.com/gc/playbook/sass-css-style-guide/)
+
+#Archive
+This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 
 ### 54 articles I've read this week (week 26 2015: june 22 - june 28):
 * [Keynote Motion Graphics by Linda Dong](http://www.lindadong.com/blog/keynotemotiongraphic?mc_cid=873f027b92&mc_eid=d146ba1db10)
@@ -32,35 +37,6 @@ I'm sure it can be improved.
 * [Sass helpers for older browsers](http://www.sitepoint.com/sass-helpers-older-browsers/)
 * [How to reset your WordPress website](http://premium.wpmudev.org/blog/reset-wordpress/)
 
-### 6 articles I've read this week (week 19 2015: may 04 - may 11):
-* [Using @extended in Sass without making a mess](http://www.smashingmagazine.com/2015/05/04/extending-in-sass-without-mess/)
-* UX design[Rethinking Treadmill Interface](https://medium.com/@wlmsng/rethinking-treadmill-interface-280f03ae7e03?mc_cid=ec02ba64fc&mc_eid=d146ba1db1)
-* Not really an article, but: [How to center in css](http://howtocenterincss.com/)
-* WordPress and REST:[The REST API (and How It Could Change WordPress Forever)](http://premium.wpmudev.org/blog/wordpress-rest-api/)
-* [Examples of the Marvel API](http://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API)
-* [Dynamically Load Webfonts in Sass](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html)
-
-
-#Archive
-This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
-
-### 2 articles I've read this week (week 18 2015: apr 29 - may 03):
-* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
-* [Masonry with Susy by Zell](http://www.zell-weekeat.com/masonry-with-susy/)
-
-### 5 articles I've read this week (week 17 2015: apr 21 - apr 28):
-* [Using Sketch For Responsive Web Design (A Case Study)](http://www.smashingmagazine.com/2015/04/17/using-sketch-for-responsive-web-design-case-study/)
-* [Responsive Web Design Adoption, 2014](http://www.guypo.com/rwd-2014/)
-* [Sass theming with configuration files](http://www.sitepoint.com/sass-theming-withconfiguration-files/)
-* [Responsive typography in Sass](http://www.sitepoint.com/sass-responsive-typography/)
-* Ben Frain goes back to using pixels [Just use pixels](http://benfrain.com/just-use-pixels/)
-
-### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
-* [Let links be links](http://alistapart.com/article/let-links-be-links)
-* grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
-* [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
-
-
 # Articles
 ### All-web related
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -73,6 +49,8 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [DevTools Cheat Sheat](http://anti-code.com/devtools-cheatsheet/)
 * [Working smarter](https://boagworld.com/working-in-web/work-smarter/)
 * [9 gifs that explain responsive design briliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly)
+* Ben Frain goes back to using pixels [Just use pixels](http://benfrain.com/just-use-pixels/)
+* [Responsive typography in Sass](http://www.sitepoint.com/sass-responsive-typography/)
 
 ### Working at:
 * [A year designing at facebook](https://medium.com/@gem_ray/a-year-of-designing-at-facebook-74ba9c292888)
@@ -103,6 +81,9 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Ironically, don't use normalize](http://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation)
 * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 * [Responsive Images by David Walsh](http://davidwalsh.name/responsive-images)
+* Not really an article, but: [How to center in css](http://howtocenterincss.com/)
+* [CSS Values and Units](http://demosthenes.info/blog/660/Using-vw-and-vh-Measurements-In-Modern-Site-Design)
+
 
 Flexbox
   * [Dutch Guide to Flexbox](http://nl.learnlayout.com/flexbox.html)
@@ -113,12 +94,25 @@ Box-Sizing doc.
   * [Paul Irish - where it all started](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
   * [CSSTricks - taking it further](http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
+### Responsive Typography
+* [Viewport sized typography with minimum and maximum values](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html)
+* [Slideshow Responsive Typography with SASS](http://www.slideshare.net/JamesSteinbach/responsive-typography-47632381)
+* [Responsive Typography with Sass Maps](http://www.smashingmagazine.com/2015/06/17/responsive-typography-with-sass-maps/)
+* [Type Setting Mixin](https://gist.github.com/iainspad/d3df585d2ebd78a06b6a)
+
 ### SASS
 * [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
 * [Andy is collection of cool mixins](http://gillesbertaux.com/andy/)
 * [Source Maps for better debugging](http://webdesign.tutsplus.com/tutorials/how-to-use-source-maps-for-better-preprocessor-debugging--cms-22735)
 * [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
 * [gridle.org](http://gridle.org/#home_what-the-fuck)
+* [Sass theming with configuration files](http://www.sitepoint.com/sass-theming-withconfiguration-files/)
+* [Sass helpers for older browsers](http://www.sitepoint.com/sass-helpers-older-browsers/)
+* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
+* [A sass approach to theming components](http://www.ian-thomas.net/a-sassy-approach-to-theming-components/)
+
+### Susy
+* [Masonry with Susy by Zell](http://www.zell-weekeat.com/masonry-with-susy/)
 
 ### WordPress
 * [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
@@ -202,4 +196,3 @@ Searchable Photo Databases
 * [Git on a Synology](http://blog.osdev.org/git/2014/02/13/using-git-on-a-synology-nas.html)
 * [Macbook Cool Features](http://www.buzzfeed.com/danieldalton/macbook-pro#2ls0d3d)
 * [Git Aliasses - A list apart](http://alistapart.com/blog/post/personalizing-git-with-aliases/)
-

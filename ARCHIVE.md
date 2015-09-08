@@ -3,23 +3,39 @@
 This is the archive to [my original webresources](). Some go to [that page]() and the rest stays here.
 On [that page]() you can find the webresources of a few weeks back.
 
+### 6 articles I've read this week (week 19 2015: may 04 - may 11):
+* [Using @extended in Sass without making a mess](http://www.smashingmagazine.com/2015/05/04/extending-in-sass-without-mess/)
+* UX design[Rethinking Treadmill Interface](https://medium.com/@wlmsng/rethinking-treadmill-interface-280f03ae7e03?mc_cid=ec02ba64fc&mc_eid=d146ba1db1)
+* Not really an article, but: [How to center in css](http://howtocenterincss.com/)
+* WordPress and REST:[The REST API (and How It Could Change WordPress Forever)](http://premium.wpmudev.org/blog/wordpress-rest-api/)
+* [Examples of the Marvel API](http://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API)
+* [Dynamically Load Webfonts in Sass](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html)
+
+### 2 articles I've read this week (week 18 2015: apr 29 - may 03):
+* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
+* [Masonry with Susy by Zell](http://www.zell-weekeat.com/masonry-with-susy/)
+
+### 5 articles I've read this week (week 17 2015: apr 21 - apr 28):
+* [Using Sketch For Responsive Web Design (A Case Study)](http://www.smashingmagazine.com/2015/04/17/using-sketch-for-responsive-web-design-case-study/)
+* [Responsive Web Design Adoption, 2014](http://www.guypo.com/rwd-2014/)
+
 ### 3 articles I've read this week (week 16 2015: apr 14 - apr 20):
 * Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
 * SEO article from Yoast [Changing URLS in search results](https://yoast.com/changing-urls-in-search-results/)
 * [What's it like to contribute to Wordpress](http://sixrevisions.com/wordpress/contribute-to-wordpress/)
-
-### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
-* Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
-* UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)
-* [UX Flows: how to help users search for what they need on your site](http://www.dtelepathy.com/blog/design/ux-flows-how-to-help-users-search-for-what-they-need-on-your-site)
 
 ### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
 * [Let links be links](http://alistapart.com/article/let-links-be-links)
 * grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
 * [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
 
+### 3 articles I've read this week (week 14 2015: mar 30 - apr 05):  
+* Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
+* UX [Strategy for Responsive Design](http://www.uie.com/articles/strategy_for_responsive_design/)
+* [UX Flows: how to help users search for what they need on your site](http://www.dtelepathy.com/blog/design/ux-flows-how-to-help-users-search-for-what-they-need-on-your-site)
+
 ### 6 articles I've read this week (week 12 2015: mar 16 - mar 22):
-* [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations) 
+* [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations)
 * [Metalanguages on Wikipedia](http://en.wikipedia.org/wiki/Metalanguage#Nested_metalanguage)
 * UX [Fitts's Law](http://en.wikipedia.org/wiki/Fitts%27s_law)
 * [http://www.smashingmagazine.com/2015/03/23/content-mobile-content-strategy/](http://www.smashingmagazine.com/2015/03/23/content-mobile-content-strategy/)
