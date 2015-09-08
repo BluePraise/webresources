@@ -10,6 +10,8 @@ I'm sure it can be improved.
 ### 1 articles I've read this week (week 37 2015: june 29 - july 5):
 * [BEM-resources](https://github.com/sturobson/BEM-resources)
 
+* [Zoom slider from Tympanus](http://tympanus.net/codrops/2015/07/06/zoom-slider/)
+
 ### 5 articles I've read this week (week 26 2015: june 29 - july 5):
 * [How to structure your typography in Sass](http://chipcullen.com/how-to-structure-your-typography-in-sass/)
 * [Sliders in WordPress Sites](http://premium.wpmudev.org/blog/wordpress-sliders/?dsh=1&utm_expid=3606929-40.lszTaIEzTbifDhvhVdd39A.1&mc_cid=58ec28e9f7&mc_eid=8c1772d191)
