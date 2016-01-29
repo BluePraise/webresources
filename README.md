@@ -5,10 +5,12 @@ Features for Drupal, WordPress and any other webresource:
 * Links to Libraries, Docs or API's
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
+[Articles of 2015](/)
 
 I'm sure it can be improved. 
 
 * [Zoom slider from Tympanus](http://tympanus.net/codrops/2015/07/06/zoom-slider/)
+*[wp_reset_postdata or wp_reset_quere](http://wordpress.stackexchange.com/questions/144343/wp-reset-postdata-or-wp-reset-query-after-a-custom-loop)
 
 ### 5 articles I've read this week (week 26 2015: june 29 - july 5):
 * [How to structure your typography in Sass](http://chipcullen.com/how-to-structure-your-typography-in-sass/)
@@ -43,24 +45,8 @@ I'm sure it can be improved.
 * [Dynamically Load Webfonts in Sass](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html)
 
 
-#Archive
+# Latest finds
 This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
-
-### 2 articles I've read this week (week 18 2015: apr 29 - may 03):
-* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
-* [Masonry with Susy by Zell](http://www.zell-weekeat.com/masonry-with-susy/)
-
-### 5 articles I've read this week (week 17 2015: apr 21 - apr 28):
-* [Using Sketch For Responsive Web Design (A Case Study)](http://www.smashingmagazine.com/2015/04/17/using-sketch-for-responsive-web-design-case-study/)
-* [Responsive Web Design Adoption, 2014](http://www.guypo.com/rwd-2014/)
-* [Sass theming with configuration files](http://www.sitepoint.com/sass-theming-withconfiguration-files/)
-* [Responsive typography in Sass](http://www.sitepoint.com/sass-responsive-typography/)
-* Ben Frain goes back to using pixels [Just use pixels](http://benfrain.com/just-use-pixels/)
-
-### 3 articles I've read this week (week 15 2015: apr 06 - apr 13):
-* [Let links be links](http://alistapart.com/article/let-links-be-links)
-* grid system [gridle.org](http://gridle.org/#home_what-the-fuck)
-* [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
 
 
 # Articles
