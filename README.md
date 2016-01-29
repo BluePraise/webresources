@@ -5,7 +5,7 @@ Features for Drupal, WordPress and any other webresource:
 * Links to Libraries, Docs or API's
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
-[Articles of 2015](/)
+[Articles of 2015](https://github.com/BluePraise/webresources/blob/master/2015.md)
 
 I'm sure it can be improved. 
 
