@@ -9,42 +9,6 @@ Features for Drupal, WordPress and any other webresource:
 
 I'm sure it can be improved. 
 
-* [Zoom slider from Tympanus](http://tympanus.net/codrops/2015/07/06/zoom-slider/)
-*[wp_reset_postdata or wp_reset_quere](http://wordpress.stackexchange.com/questions/144343/wp-reset-postdata-or-wp-reset-query-after-a-custom-loop)
-
-### 5 articles I've read this week (week 26 2015: june 29 - july 5):
-* [How to structure your typography in Sass](http://chipcullen.com/how-to-structure-your-typography-in-sass/)
-* [Sliders in WordPress Sites](http://premium.wpmudev.org/blog/wordpress-sliders/?dsh=1&utm_expid=3606929-40.lszTaIEzTbifDhvhVdd39A.1&mc_cid=58ec28e9f7&mc_eid=8c1772d191)
-* [Improve the quality of your code in Wordpress](http://premium.wpmudev.org/blog/improving-code-quality)
-* [Type Setting Mixin](https://gist.github.com/iainspad/d3df585d2ebd78a06b6a)
-* [Sass Styleguide](http://www.liveeditorcms.com/gc/playbook/sass-css-style-guide/)
-
-### 54 articles I've read this week (week 26 2015: june 22 - june 28):
-* [Keynote Motion Graphics by Linda Dong](http://www.lindadong.com/blog/keynotemotiongraphic?mc_cid=873f027b92&mc_eid=d146ba1db10)
-* [Responsive Typography with Sass Maps](http://www.smashingmagazine.com/2015/06/17/responsive-typography-with-sass-maps/)
-* [Viewport sized typography with minimum and maximum values](https://eduardoboucas.com/blog/2015/06/18/viewport-sized-typography-with-minimum-and-maximum-sizes.html)
-* [A sass approach to theming components](http://www.ian-thomas.net/a-sassy-approach-to-theming-components/)
-
-### 2 articles I've read this week (week 22 2015: may 25 - may 31):
-* [CSS Values and Units](http://demosthenes.info/blog/660/Using-vw-and-vh-Measurements-In-Modern-Site-Design)
-* [Slideshow Responsive Typography with SASS](http://www.slideshare.net/JamesSteinbach/responsive-typography-47632381)
-
-### 5 articles I've read this week (week 21 2015: may 18 - may 24):
-* [Do not learn frameworks, learn the architecture.](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture) [via](https://github.com/anandgraves/frontend-developer-bookmarks)
-* [How I learned to stop worrying and love React. Especially, the comments!](http://firstdoit.com/react-1/)
-* [Updating dependencies in a package json](http://alwaystwisted.com/articles/updating-dependencies-in-a-packagejson)
-* [Sass helpers for older browsers](http://www.sitepoint.com/sass-helpers-older-browsers/)
-* [How to reset your WordPress website](http://premium.wpmudev.org/blog/reset-wordpress/)
-
-### 6 articles I've read this week (week 19 2015: may 04 - may 11):
-* [Using @extended in Sass without making a mess](http://www.smashingmagazine.com/2015/05/04/extending-in-sass-without-mess/)
-* UX design[Rethinking Treadmill Interface](https://medium.com/@wlmsng/rethinking-treadmill-interface-280f03ae7e03?mc_cid=ec02ba64fc&mc_eid=d146ba1db1)
-* Not really an article, but: [How to center in css](http://howtocenterincss.com/)
-* WordPress and REST:[The REST API (and How It Could Change WordPress Forever)](http://premium.wpmudev.org/blog/wordpress-rest-api/)
-* [Examples of the Marvel API](http://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API)
-* [Dynamically Load Webfonts in Sass](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html)
-
-
 # Latest finds
 This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 
