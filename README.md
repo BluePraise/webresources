@@ -11,6 +11,8 @@ I'm sure it can be improved.
 
 # Latest finds
 This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
+* [Did you think of all kinds of content? Forcefeed it with this js to test the shit out of it](https://github.com/Heydon/forceFeed?mc_cid=400f98b312&mc_eid=d146ba1db1)
+* [An interesting design view to data visualisation](https://medium.com/accurat-studio/beautiful-reasons-c1c6926ab7d7?mc_cid=400f98b312&mc_eid=d146ba1db1#.re224hhl1)
 
 
 # Articles
