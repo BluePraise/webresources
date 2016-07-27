@@ -1,44 +1,75 @@
 # Reading material for Magalie Linda.
-Features for Drupal, WordPress and any other webresource:
-* Articles
-* Video's
-* Links to Libraries, Docs or API's
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/magalielinda)
-[Articles of 2015](https://github.com/BluePraise/webresources/blob/master/2015.md)
-
-I'm sure it can be improved. 
 
 # Latest finds
 This list was getting super long so I've put it in [the archive page](http://github.com/BluePraise/webresources/archive.md).
 * [Did you think of all kinds of content? Forcefeed it with this js to test the shit out of it](https://github.com/Heydon/forceFeed?mc_cid=400f98b312&mc_eid=d146ba1db1)
 * [An interesting design view to data visualisation](https://medium.com/accurat-studio/beautiful-reasons-c1c6926ab7d7?mc_cid=400f98b312&mc_eid=d146ba1db1#.re224hhl1)
 
-
 # Articles
 ### All-web related
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Google Chrome Dev Tools Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
-* [Brad Frost Web Patterns](http://patternlab.io/)
-* [Meteor for building WebApps](https://www.meteor.com/)
-* [Framer JS for prototyping UX and animation](http://framerjs.com)
-* [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
-* [Photoshop Image Optimizing](http://designinstruct.com/tools-basics/5-easy-steps-optimize-your-images-photoshop/)
 * [DevTools Cheat Sheat](http://anti-code.com/devtools-cheatsheet/)
-* [Working smarter](https://boagworld.com/working-in-web/work-smarter/)
+* [Meteor for building WebApps](https://www.meteor.com/)
 * [9 gifs that explain responsive design briliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly)
+* [I read about prose.io](http://prose.io/#about)
+* [6 Tips for a Smooth Hand-off from Designer to Developer](http://uxmovement.com/resources/6-tips-for-a-smooth-hand-off-from-designer-to-developer/)
 
-### Working at:
-* [A year designing at facebook](https://medium.com/@gem_ray/a-year-of-designing-at-facebook-74ba9c292888)
-* [5 months of development internship at the guarian ](http://www.theguardian.com/info/developer-blog/2015/jan/27/five-months-in-software-development-at-the-guardian-what-weve-learned)
-* [Working at Netflix](http://www.brendangregg.com/blog/2015-01-20/working-at-netflix.html)
+### Front-End
+* [Let links be links](http://alistapart.com/article/let-links-be-links)
+* [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens#When:13:09)
 
-### Design and UX
-* [Redesign of CNN Breaking News](https://medium.com/@sarahdoody/the-cnn-re-design-the-user-experience-of-breaking-news-5362f671e6ac)
-* [The God Login: a study of login usability](http://blog.codinghorror.com/the-god-login/)
-* [The difference between Pattern Libraries and Styleguides - StackExhange](http://ux.stackexchange.com/questions/13314/pattern-library-vs-style-guide-what-are-the-differences)
-* [Online Screenshot testing](https://www.optimalworkshop.com/chalkmark.htm)
-* [Fitts's law](http://en.wikipedia.org/wiki/Fitts%27s_law)
+### Testing
+* [Automated FrontEnd Testing by Chris Ruppel](https://github.com/rupl/frontend-testing)
+* [Testing search boxes](http://viget.com/inspire/refreshing-search-testing-search-box-variations) 
+
+### CSS
+* [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
+* [Attribute Modules for CSS](http://amcss.github.io/)
+* [John Albin's Normalize](https://github.com/JohnAlbin/normalize-scss)
+* [Ironically, don't use normalize](http://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation)
+* [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
+* [Responsive Images by David Walsh](http://davidwalsh.name/responsive-images)
+
+### SASS
+* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
+* [Andy is collection of cool mixins](http://gillesbertaux.com/andy/)
+* [Source Maps for better debugging](http://webdesign.tutsplus.com/tutorials/how-to-use-source-maps-for-better-preprocessor-debugging--cms-22735)
+* [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
+* [gridle.org](http://gridle.org/#home_what-the-fuck)
+* [child management in sass](https://lukyvj.github.io/family.scss/)
+* Sass Mixins Article [Responsive SVG Mixins](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
+* Interesting pen: [Display the breakpoint using Sass](http://codepen.io/stacy/details/JoQRyN/)
+* [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
+
+### POST PROCESSING
+* [Nicolas Gallagher](Custom CSS Processing)
+* [David Clark: Excited about Post Processing CSS](http://davidtheclark.com/excited-about-postcss/)
+* [Nicolas Gallagher](http://nicolasgallagher.com/custom-css-preprocessing/)
+* [David Clark: Excited about Post Processing CSS](http://davidtheclark.com/excited-about-postcss/)
+
+### SVG 
+* [Learn about SVG](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
+
+### FLEXBOX
+* [How to use flexbox in webapps today](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
+
+### Workflow
+* [Working smarter](https://boagworld.com/working-in-web/work-smarter/)
+
+### Gulp
+* [Gulp Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
+* [Getting started with Gulp - Github Readme](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+* [Gulp on Smashing Web](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
+* [Basic Task in Gulp](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
+* [How to add multiple directories in one Gulp Task](http://competa.com/blog/2015/03/how-to-add-multiple-directories-in-one-gulp-task/)
+
+### Git
+* [Git-Extras](https://github.com/tj/git-extras)
+* [Awesome Github tricks](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
+* [The new face of committing in GitHub for Mac](https://github.com/blog/1960-the-new-face-of-committing-in-github-for-mac)
 
 ### Styleguide inspirationals.
 * [Stylguides in Hologram](http://trulia.github.io/hologram/)
@@ -49,67 +80,6 @@ This list was getting super long so I've put it in [the archive page](http://git
 * [Jackie Balzer's Styleguide](http://jackiebalzer.com/color)
 * [The Poorman's Styleguide](http://www.poormansstyleguide.com/)
 * [Sass Styleguide](http://www.liveeditorcms.com/gc/playbook/sass-css-style-guide/)
-
-### CSS
-* [Complete guide to centerering in CSS - CSS Tricks](http://css-tricks.com/centering-css-complete-guide/)
-* [Attribute Modules for CSS](http://amcss.github.io/)
-* [John Albin's Normalize](https://github.com/JohnAlbin/normalize-scss)
-* [Ironically, don't use normalize](http://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation)
-* [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
-* [Responsive Images by David Walsh](http://davidwalsh.name/responsive-images)
-
-Flexbox
-  * [Dutch Guide to Flexbox](http://nl.learnlayout.com/flexbox.html)
-  * [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
-  * [Flexbox bugs](https://github.com/philipwalton/flexbugs)
-
-Box-Sizing doc.
-  * [Paul Irish - where it all started](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
-  * [CSSTricks - taking it further](http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
-
-### SASS
-* [Dynamic placeholders in Sass](http://advancedsass.com/articles/dynamic-placeholders-in-sass.html)
-* [Andy is collection of cool mixins](http://gillesbertaux.com/andy/)
-* [Source Maps for better debugging](http://webdesign.tutsplus.com/tutorials/how-to-use-source-maps-for-better-preprocessor-debugging--cms-22735)
-* [Sass for big Sites Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
-* [gridle.org](http://gridle.org/#home_what-the-fuck)
-
-### WordPress
-* [Get a notification when a post is edited](http://premium.wpmudev.org/blog/notifications-when-users-edit-wordpress-post/)
-* [WordPress Site Migration](http://wpshout.com/commonsense-wordpress-site-migration/)
-* [Wordpress Security Measures](http://premium.wpmudev.org/blog/keeping-wordpress-secure-the-ultimate-guide/)
-* [How to fix error 406 in wordpress](https://www.tipsandtricks-hq.com/apache-mod-security-update-how-to-fix-error-406-or-not-acceptable-issue-259)
-* [How to reset your WordPress website](http://premium.wpmudev.org/blog/reset-wordpress/)
-
-Optimizing
-* [Wordpress Optimizing that goes wrong](http://www.smashingmagazine.com/2014/03/21/wordpress-performance-improvements-that-can-go-wrong/)
-* [How to speed up your wordpress website](http://www.smashingmagazine.com/2014/06/25/how-to-speed-up-your-wordpress-website/)
-* [Optimizing your Wordpress site for mobile devices](http://premium.wpmudev.org/blog/6-steps-to-optimizing-your-wordpress-site-for-mobile-devices/)
-
-Plugins
-* All-In-One Migration: [Link](https://wordpress.org/plugins/all-in-one-wp-migration/)
-* [Time.ly](http://time.ly/)
-* [iThemes Security](https://wordpress.org/plugins/better-wp-security/)
-* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
-* [Pagenavi](http://www.wpbeginner.com/wp-themes/how-to-add-numeric-pagination-in-your-wordpress-theme/)
-
-### Drupal
-* [Webwash: Articles and Videos for Drupal](http://webwash.net/articles)
-* [Drupal 8 in 2 steps](http://capgemini.github.io/drupal/drupal-8-in-2-steps/)
-* [Drupal 8 Plugins](https://drupalize.me/blog/201409/unravelling-drupal-8-plugin-system)
-
-### Gulp
-* [Gulp Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
-* [Getting started with Gulp - Github Readme](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
-* [Gulp on Smashing Web](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
-* [Basic Task in Gulp](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
-
-### Git
-* [Git-Extras](https://github.com/tj/git-extras)
-* [Awesome Github tricks](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
-
-### Angular
-* [Step by Step guide to your first Angular JS app](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
 
 ### interesting jQuery Libraries
 * [Javascript browser detection](https://github.com/ded/bowser)
@@ -123,29 +93,6 @@ Plugins
 ### Slides and such
 * [Addy Osmani Front end tooling workflows](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 * [Front-end Dev Book](https://github.com/dypsilon/frontend-dev-bookmarks)
-
-# Docs
-* [Drupal.org](http://drupal.org)
-* [WordPress.org](http://WordPress.org)
-* [Susy Docs](http://susy.readthedocs.org/en/latest/)
-* [Markdown](http://daringfireball.net/projects/markdown/basics)
-
-# Free Image Sources
-Searchable Photo Databases
-
-  1. [Dreamstime](http://www.dreamstime.com/free-images_pg1)
-  2. [Free Digital Photos](http://www.freedigitalphotos.net/)
-  3. [Free Images](http://www.freeimages.com/)
-  4. [Image Free](http://www.imagefree.com/) Yes I know.
-  5. [Free Range](http://freerangestock.com/)
-  6. [Free Photos Bank](http://freephotosbank.com/)
-  7. [IM Free](http://www.imcreator.com/free)
-  8. [MorgueFile](http://morguefile.com/) Yes registration.
-  9. [Pixabay](http://pixabay.com/) No Registration
-  10. [Stockvault](http://www.stockvault.net/) No registration.
-  11. [RGBstock](http://www.rgbstock.com/about) Yes registration.
-  12. [Publick Domain Pictures](http://www.publicdomainpictures.net/) Yes Registration.
-  13. [Death To the Stock Photo](http://join.deathtothestockphoto.com/) Sends it monthly
 
 # Personal
 (Because I keep googling them and now I don't have to anymore)
